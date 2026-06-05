@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 12px 20px;
+    font-size: 18px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+canvas {
+    border: 2px solid black;
+    margin-top: 20px;
+}
